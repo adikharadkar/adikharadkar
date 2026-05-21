@@ -52,17 +52,6 @@
 | [🗺️ VolcanoViz — Geospatial Web Map](https://github.com/adikharadkar/VolcanoViz) | Interactive map visualising 62 US volcanoes and population density using real-world datasets | Python · Folium · Pandas |
 | [🔒 SecNotify — Security Scraper](https://github.com/adikharadkar/SecNotify-Ubuntu-Security-Notice-Scraper) | Automated scraper for Ubuntu CVE advisories with structured data extraction and logging | Python · BeautifulSoup · Logging |
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adikharadkar&show_icons=true&theme=react&hide_border=true" alt="Aditya's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adikharadkar&layout=compact&theme=react&hide_border=true" alt="Top Languages" />
-</p>
-
----
 
 ## 📫 Connect With Me
 
