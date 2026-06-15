@@ -5,7 +5,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 💼 Senior Frontend Developer with **4+ years of experience** building responsive, scalable web applications
+- 💼 Frontend Developer with **4+ years of experience** building responsive, scalable web applications
 - ⚛️ Specialised in **React** and **TypeScript** — from design handoff to production deployment
 - 🤖 Expanding into **AI and full-stack development** — currently building an AI agent and integrating AI features into my projects
 - 🐍 Comfortable across the stack with **Python** and **Node.js**
