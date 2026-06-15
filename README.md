@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Aditya Kharadkar 👋</h1>
-<h3 align="center">Senior Frontend Developer · React · TypeScript · Python</h3>
+<h3 align="center">Frontend Developer · React · TypeScript · Python</h3>
 
 <br/>
 
